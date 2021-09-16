@@ -1,6 +1,6 @@
 # Métodos de otimização
 
-Códigos em Scilab &lt;https://www.scilab.org/> para resolução de problemas de minimização ( equações de primeira e segunda ordem)
+Códigos em Scilab < https://www.scilab.org/ > para resolução de problemas de minimização ( equações de primeira e segunda ordem)
 
 * Método da seção aurea
 * Método de Newton
